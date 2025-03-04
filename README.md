@@ -19,3 +19,5 @@ This project analyzes road accident trends using an interactive Excel dashboard 
 🛠️ Tools & Technologies Used
 🔹 Microsoft Excel – Pivot Tables, Power Query, Data Visualization
 🔹 Data Cleaning & Transformation – Handling missing values, duplicates, and inconsistencies
+
+![image alt] (https://github.com/pavankul1/Road_Accident_Data_Analysis-Excel/blob/12707d58b0d184e7f61d2279dc7b8c1b30a6299a/Screenshot%202025-03-04%20143412.png)
